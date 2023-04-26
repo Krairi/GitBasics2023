@@ -8,3 +8,5 @@ I like Git very much !
 - git status
 - git add/rm
 - git commit
+- git remote add origin https://github.com/Krairi/GitBasics2023.git
+- git push -u origin main
