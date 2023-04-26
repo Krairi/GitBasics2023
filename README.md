@@ -17,3 +17,4 @@ I like Git very much !
 - git diff README.md
 - git restore README.md
 - code .
+- git branch -M main
