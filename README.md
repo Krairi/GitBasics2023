@@ -18,4 +18,6 @@ I like Git very much !
 - git restore README.md
 - code .
 - git branch -M main
-
+- git branch dev
+- git checkout dev
+- git checkout -b feat-db
